@@ -20,9 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Ball.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Paddle.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
