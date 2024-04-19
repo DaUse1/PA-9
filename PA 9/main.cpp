@@ -12,7 +12,7 @@
 //          4/ 5 - Started from the SFML tutorial code that draws
 //                 a circle in the window.
 
-#include <SFML/Graphics.hpp>
+#include <SFML/Graphics.hpp> //for the test
 
 int main()
 {
