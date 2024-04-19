@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\Users\Brian\OneDrive\Documents\2024 Spring\CS 122\PA9Test\PA9Test\main.cpp(12,26): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Brian\OneDrive\Documents\2024 Spring\CS 122\PA9Test\PA9Test\main.cpp(12,21): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Brian\OneDrive\Documents\2024 Spring\CS 122\PA9Test\PA9Test\main.cpp(24,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Brian\OneDrive\Documents\2024 Spring\CS 122\PA9Test\PA9Test\main.cpp(32,29): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Brian\OneDrive\Documents\2024 Spring\CS 122\PA9Test\PA9Test\main.cpp(36,28): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Brian\OneDrive\Documents\2024 Spring\CS 122\PA9Test\PA9Test\main.cpp(40,26): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Brian\OneDrive\Documents\2024 Spring\CS 122\PA9Test\PA9Test\main.cpp(44,25): warning C4305: 'argument': truncation from 'double' to 'float'
-  PA9Test.vcxproj -> C:\Users\Brian\OneDrive\Documents\2024 Spring\CS 122\PA9Test\x64\Debug\PA9Test.exe
